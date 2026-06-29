@@ -55,13 +55,15 @@ I build cross-platform apps with Flutter & Dart. I also ship full products end-t
 
 ## Featured Projects
 
-| Project | Description | Stack | Link |
+> Most of my apps are private commercial products — linked to their live deployments below. Source is open only where noted.
+
+| Project | Description | Stack | |
 | --- | --- | --- | --- |
-| **[Coffer](https://github.com/aneebbaig/coffer)** | Self-hosted personal finance manager — zero-based budgeting, savings pots, goals, investments, loans | Flutter · Next.js | — |
-| **[TrackPal](https://github.com/aneebbaig/trackpal-backend)** | Tracking app — Flutter client + Python API | Flutter · Python | [API](https://trackpal-backend.vercel.app) |
-| **[Anhib Management](https://github.com/aneebbaig/anhib-management)** | Personal finance SaaS panel | Next.js | [Live](https://panel.anhib.com) |
-| **[Daastan](https://github.com/aneebbaig/daastan)** | Storytelling web app | Next.js | [Live](https://daastan-beta.vercel.app) |
-| **[Portfolio](https://github.com/aneebbaig/my-portfolio)** | Personal portfolio site | Next.js | [Live](https://aneebbaig.vercel.app) |
+| **Coffer** | Self-hosted personal finance manager — zero-based budgeting, savings pots, goals, investments, loans | Flutter · Next.js | [Code](https://github.com/aneebbaig/coffer) |
+| **Anhib Management** | Personal finance SaaS panel | Next.js | [Live](https://panel.anhib.com) |
+| **TrackPal** | Fitness tracker — Flutter app + Python/FastAPI backend | Flutter · Python | [API](https://trackpal-backend.vercel.app) |
+| **Daastan** | Handcrafted Nikkah-frame product site + configurator | Next.js | [Live](https://daastan-beta.vercel.app) |
+| **Portfolio** | Personal portfolio — interactive VSCode IDE simulator | Next.js | [Live](https://aneebbaig.vercel.app) |
 
 ---
 
