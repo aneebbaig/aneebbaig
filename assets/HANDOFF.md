@@ -1,48 +1,65 @@
-# Apps showcase — handoff
+# Launch handoff — showcase repos for Cue + TrackPal
 
-Everything is pre-wired. In 2–3 days, when the apps are on the Play Store:
+Plan: each commercial app gets a small PUBLIC "showcase repo" (README + screenshots, no source).
+These show up as real pinned repos on the profile, look professional, and expose zero code.
+The profile README stays clean and just links out.
 
-## What you send me
-1. **Play Store URLs** — one per app (Cue, TrackPal)
-2. **Screenshots** — drop into:
-   - `assets/screenshots/cue/` → `1.png`, `2.png`, `3.png`
-   - `assets/screenshots/trackpal/` → `1.png`, `2.png`, `3.png`
+## What you send me at launch (2-3 days)
+1. **Play Store URLs** (one per app)
+2. **Screenshots** (3-5 each, portrait PNG)
 
-That's it. I then: replace the `STORE_LINK_*` tokens, paste the section below into `README.md` (after **Featured Projects**), and remove the standalone TrackPal row from the Featured Projects table (it moves into Apps).
+## Then I do, in one shot
+1. Create public repo `cue` (showcase). Private app repo `cue-app` stays as-is.
+   - For TrackPal the clean names are taken by private repos, so the showcase repo will be `trackpal-fitness` (or your pick).
+2. Drop in the README below + screenshots under `screenshots/`.
+3. Set repo description + topics (flutter, dart, android, ai).
+4. Pin both showcase repos (+ coffer) on the profile.
+5. Update the profile README's "launching soon" line to real Play Store links.
 
 ---
 
-## Ready-to-paste section (tokens get filled on handoff)
+## Showcase repo README template (per app)
 
 ```markdown
-## Apps
+# Cue
 
-Flutter apps I've designed and shipped. Source is private (commercial products) — try them live on the Play Store.
+AI-powered Android automation, built with Flutter.
 
-### Cue — AI Android Automation
-> Describe what you want to automate in plain English; Gemini sets it up. Triggers on WiFi/Bluetooth/battery/time, runs on-device, works offline.
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white)](STORE_LINK)
 
-**Flutter · Gemini AI · WorkManager** &nbsp;·&nbsp; [▶ Google Play](STORE_LINK_CUE)
+## What it does
 
-<p align="center">
-  <img src="assets/screenshots/cue/1.png" width="24%" />
-  <img src="assets/screenshots/cue/2.png" width="24%" />
-  <img src="assets/screenshots/cue/3.png" width="24%" />
+Tell Cue what you want to automate in plain English and it sets it up for you using Gemini.
+No learning triggers and actions, just describe it.
+
+- Triggers: wifi, bluetooth, battery level, time of day
+- Actions: sound mode, Do Not Disturb, notifications, open an app
+- Runs on-device and works offline
+- Reliable in the background (foreground service + WorkManager)
+
+## Screenshots
+
+<p align="left">
+  <img src="screenshots/1.png" width="24%" />
+  <img src="screenshots/2.png" width="24%" />
+  <img src="screenshots/3.png" width="24%" />
 </p>
 
-### TrackPal — Fitness Tracker
-> Log workouts, track body metrics, monitor progress, plan nutrition. Flutter client backed by a Python/FastAPI API with JWT auth.
+## Built with
 
-**Flutter · Riverpod · FastAPI** &nbsp;·&nbsp; [▶ Google Play](STORE_LINK_TRACKPAL) &nbsp;·&nbsp; [API](https://trackpal-backend.vercel.app)
+Flutter, Dart, Gemini API, WorkManager, Riverpod
 
-<p align="center">
-  <img src="assets/screenshots/trackpal/1.png" width="24%" />
-  <img src="assets/screenshots/trackpal/2.png" width="24%" />
-  <img src="assets/screenshots/trackpal/3.png" width="24%" />
-</p>
+## Note
+
+This is a showcase repo. Cue is a commercial product so the source is private.
+Happy to walk through the architecture or a demo on request.
 ```
+
+(TrackPal version: same shape. Pitch = "Log workouts, track body metrics and plan nutrition. Flutter app with a Python/FastAPI backend." Built with: Flutter, Riverpod, Dio, FastAPI.)
 
 ---
 
-## Adding more apps later
-Same pattern: make `assets/screenshots/<app>/`, drop `1.png`–`3.png`, copy a block above, swap the name/pitch/stack/store link.
+## Note on the old scaffold
+The `assets/screenshots/` folders in this profile repo are no longer needed under the
+showcase-repo approach (screenshots live inside each showcase repo instead). Safe to delete,
+or I'll clean them up at launch.
