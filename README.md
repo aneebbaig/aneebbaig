@@ -1,47 +1,39 @@
 # Aneeb Baig
 
-**Flutter developer — Pakistan**
+Flutter developer from Pakistan.
 
-I build cross-platform apps with Flutter & Dart. I also ship full products end-to-end — backends in Python (Flask / FastAPI) and web apps with Next.js, leaning on AI tooling to move fast outside my core stack.
+I mostly build mobile apps with Flutter and Dart. I also write backends in Python (Flask, FastAPI) and put together web apps with Next.js when a project needs one. For the web/backend parts I lean on AI tools a fair bit to move faster.
 
-📫 &nbsp;aneebbaig123@gmail.com
-
----
+Email: aneebbaig123@gmail.com
 
 ## About
 
-- 📱 &nbsp;**Flutter & Dart** is my home turf — cross-platform mobile is what I do best
-- 🔭 &nbsp;Building **[Coffer](https://github.com/aneebbaig/coffer)** — a self-hosted personal finance manager (Flutter Android + Next.js web)
-- 🐍 &nbsp;Comfortable wiring up backends in **Python** with **Flask / FastAPI**
-- ⚡ &nbsp;Ship full-stack web with **Next.js**, pairing with AI tools to cover the parts outside my main stack
-- 💬 &nbsp;Happy to talk about **Flutter, Dart, and Python**
-
----
+- Flutter and Dart are my main thing. Cross-platform mobile is what I'm best at.
+- Currently building Coffer, a self-hosted finance app (Flutter on Android, Next.js on the web).
+- I'm comfortable building APIs in Python with Flask and FastAPI.
+- I ship web apps in Next.js too, with a lot of help from AI for the parts I'm less fluent in.
+- Ask me about Flutter, Dart or Python.
 
 ## Tech Stack
 
-**Core — Mobile**
+**Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Languages I write**
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 **Backend**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Web (with AI tooling)**
+**Web**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Data & Infra**
+**Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -51,21 +43,46 @@ I build cross-platform apps with Flutter & Dart. I also ship full products end-t
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+## Apps
 
-## Featured Projects
+Some Flutter apps I've built. These are private commercial apps so the code isn't public, but you can try them on the Play Store.
 
-> Most of my apps are private commercial products — linked to their live deployments below. Source is open only where noted.
+> Note: links and screenshots below are placeholders for now. Real ones going up in a few days once the apps are on the Play Store.
 
-| Project | Description | Stack | |
+### Cue — AI Android automation
+
+Tell it what you want to automate in plain English and it sets it up using Gemini. Triggers on wifi, bluetooth, battery and time. Works offline.
+
+Flutter, Gemini, WorkManager · [Google Play (example)](https://play.google.com/store)
+
+<p align="left">
+  <img src="https://placehold.co/270x560/0d1117/8b949e?text=Cue+1" width="22%" />
+  <img src="https://placehold.co/270x560/0d1117/8b949e?text=Cue+2" width="22%" />
+  <img src="https://placehold.co/270x560/0d1117/8b949e?text=Cue+3" width="22%" />
+</p>
+
+### TrackPal — Fitness tracker
+
+Log workouts, track body metrics and plan nutrition. Flutter app with a Python/FastAPI backend.
+
+Flutter, Riverpod, FastAPI · [Google Play (example)](https://play.google.com/store) · [API](https://trackpal-backend.vercel.app)
+
+<p align="left">
+  <img src="https://placehold.co/270x560/0d1117/8b949e?text=TrackPal+1" width="22%" />
+  <img src="https://placehold.co/270x560/0d1117/8b949e?text=TrackPal+2" width="22%" />
+  <img src="https://placehold.co/270x560/0d1117/8b949e?text=TrackPal+3" width="22%" />
+</p>
+
+## Other projects
+
+Most of these are private, so I've linked the live versions instead of the code.
+
+| Project | What it is | Stack | |
 | --- | --- | --- | --- |
-| **Coffer** | Self-hosted personal finance manager — zero-based budgeting, savings pots, goals, investments, loans | Flutter · Next.js | [Code](https://github.com/aneebbaig/coffer) |
-| **Anhib Management** | Personal finance SaaS panel | Next.js | [Live](https://panel.anhib.com) |
-| **TrackPal** | Fitness tracker — Flutter app + Python/FastAPI backend | Flutter · Python | [API](https://trackpal-backend.vercel.app) |
-| **Daastan** | Handcrafted Nikkah-frame product site + configurator | Next.js | [Live](https://daastan-beta.vercel.app) |
-| **Portfolio** | Personal portfolio — interactive VSCode IDE simulator | Next.js | [Live](https://aneebbaig.vercel.app) |
-
----
+| Coffer | Self-hosted finance app: budgeting, savings pots, goals, investments, loans | Flutter, Next.js | [Code](https://github.com/aneebbaig/coffer) |
+| Anhib Management | Personal finance SaaS panel | Next.js | [Live](https://panel.anhib.com) |
+| Daastan | Product site and configurator for handcrafted Nikkah frames | Next.js | [Live](https://daastan-beta.vercel.app) |
+| Portfolio | My portfolio, built as a little VSCode IDE in the browser | Next.js | [Live](https://aneebbaig.vercel.app) |
 
 ## Connect
 
