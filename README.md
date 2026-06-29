@@ -49,7 +49,7 @@ Some Flutter apps I've built. These are private commercial apps so the code isn'
 
 > Note: links and screenshots below are placeholders for now. Real ones going up in a few days once the apps are on the Play Store.
 
-### Cue — AI Android automation
+### Cue (AI Android automation)
 
 Tell it what you want to automate in plain English and it sets it up using Gemini. Triggers on wifi, bluetooth, battery and time. Works offline.
 
@@ -61,7 +61,7 @@ Flutter, Gemini, WorkManager · [Google Play (example)](https://play.google.com/
   <img src="https://placehold.co/270x560/0d1117/8b949e?text=Cue+3" width="22%" />
 </p>
 
-### TrackPal — Fitness tracker
+### TrackPal (Fitness tracker)
 
 Log workouts, track body metrics and plan nutrition. Flutter app with a Python/FastAPI backend.
 
