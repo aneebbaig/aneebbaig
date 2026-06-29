@@ -2,17 +2,12 @@
 
 Flutter developer from Pakistan.
 
-I mostly build mobile apps with Flutter and Dart. I also write backends in Python (Flask, FastAPI) and put together web apps with Next.js when a project needs one. For the web/backend parts I lean on AI tools a fair bit to move faster.
+I mostly build mobile apps with Flutter and Dart. I also write backends in Python (Flask, FastAPI) and put together web apps with Next.js when a project needs one. For the web and backend parts I lean on AI tools a fair bit to move faster.
 
+Most of my apps are private commercial products, so the bulk of my work isn't open source. Portfolio and live links below.
+
+Portfolio: https://aneebbaig.vercel.app
 Email: aneebbaig123@gmail.com
-
-## About
-
-- Flutter and Dart are my main thing. Cross-platform mobile is what I'm best at.
-- Currently building Coffer, a self-hosted finance app (Flutter on Android, Next.js on the web).
-- I'm comfortable building APIs in Python with Flask and FastAPI.
-- I ship web apps in Next.js too, with a lot of help from AI for the parts I'm less fluent in.
-- Ask me about Flutter, Dart or Python.
 
 ## Tech Stack
 
@@ -43,46 +38,16 @@ Email: aneebbaig123@gmail.com
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Apps
-
-Some Flutter apps I've built. These are private commercial apps so the code isn't public, but you can try them on the Play Store.
-
-> Note: links and screenshots below are placeholders for now. Real ones going up in a few days once the apps are on the Play Store.
-
-### Cue (AI Android automation)
-
-Tell it what you want to automate in plain English and it sets it up using Gemini. Triggers on wifi, bluetooth, battery and time. Works offline.
-
-Flutter, Gemini, WorkManager · [Google Play (example)](https://play.google.com/store)
-
-<p align="left">
-  <img src="https://placehold.co/270x560/0d1117/8b949e?text=Cue+1" width="22%" />
-  <img src="https://placehold.co/270x560/0d1117/8b949e?text=Cue+2" width="22%" />
-  <img src="https://placehold.co/270x560/0d1117/8b949e?text=Cue+3" width="22%" />
-</p>
-
-### TrackPal (Fitness tracker)
-
-Log workouts, track body metrics and plan nutrition. Flutter app with a Python/FastAPI backend.
-
-Flutter, Riverpod, FastAPI · [Google Play (example)](https://play.google.com/store) · [API](https://trackpal-backend.vercel.app)
-
-<p align="left">
-  <img src="https://placehold.co/270x560/0d1117/8b949e?text=TrackPal+1" width="22%" />
-  <img src="https://placehold.co/270x560/0d1117/8b949e?text=TrackPal+2" width="22%" />
-  <img src="https://placehold.co/270x560/0d1117/8b949e?text=TrackPal+3" width="22%" />
-</p>
-
-## Other projects
-
-Most of these are private, so I've linked the live versions instead of the code.
+## Selected work
 
 | Project | What it is | Stack | |
 | --- | --- | --- | --- |
 | Coffer | Self-hosted finance app: budgeting, savings pots, goals, investments, loans | Flutter, Next.js | [Code](https://github.com/aneebbaig/coffer) |
 | Anhib Management | Personal finance SaaS panel | Next.js | [Live](https://panel.anhib.com) |
 | Daastan | Product site and configurator for handcrafted Nikkah frames | Next.js | [Live](https://daastan-beta.vercel.app) |
-| Portfolio | My portfolio, built as a little VSCode IDE in the browser | Next.js | [Live](https://aneebbaig.vercel.app) |
+| Portfolio | My portfolio, built as a small VSCode IDE in the browser | Next.js | [Live](https://aneebbaig.vercel.app) |
+
+A couple of Flutter apps (Cue, an AI automation app, and TrackPal, a fitness tracker) are launching on the Play Store soon. I'll link them here once they're live.
 
 ## Connect
 
