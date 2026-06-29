@@ -1,56 +1,82 @@
-<h1 align="center">Hi 👋, I'm Aneeb</h1>
-<h3 align="center">Full-stack developer from Pakistan — Next.js, Flutter & Python</h3>
+# Aneeb Baig
+
+**Full-stack developer — Pakistan**
+
+I build web apps with Next.js, mobile apps with Flutter, and APIs with Python. Currently focused on self-hosted personal finance tooling.
+
+📫 &nbsp;aneebbaig123@gmail.com
+
+---
+
+## About
+
+- 🔭 &nbsp;Building **[Coffer](https://github.com/aneebbaig/coffer)** — a self-hosted personal finance manager (Next.js web + Flutter Android)
+- 💻 &nbsp;Working across the stack: **Next.js / React / TypeScript** on the front, **Python / FastAPI** on the back, **Flutter / Dart** on mobile
+- 🌱 &nbsp;Currently into **self-hosting, system design, and clean architecture**
+- 💬 &nbsp;Happy to talk about **Flutter, TypeScript, Next.js, and Python**
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack | Link |
+| --- | --- | --- | --- |
+| **[Coffer](https://github.com/aneebbaig/coffer)** | Self-hosted personal finance manager — zero-based budgeting, savings pots, goals, investments, loans | Next.js · Flutter | — |
+| **[Anhib Management](https://github.com/aneebbaig/anhib-management)** | Personal finance SaaS panel | TypeScript · Next.js | [Live](https://panel.anhib.com) |
+| **[TrackPal](https://github.com/aneebbaig/trackpal-backend)** | Tracking app — Python API + Flutter client | Python · Flutter | [API](https://trackpal-backend.vercel.app) |
+| **[Daastan](https://github.com/aneebbaig/daastan)** | Storytelling web app | TypeScript · Next.js | [Live](https://daastan-beta.vercel.app) |
+| **[Portfolio](https://github.com/aneebbaig/my-portfolio)** | Personal portfolio site | TypeScript · Next.js | [Live](https://aneebbaig.vercel.app) |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aneebbaig&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneebbaig&theme=flat&no-frame=true&column=7" alt="trophies" /></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aneebbaig&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneebbaig&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="top languages" />
 </p>
 
 ---
 
-- 🔭 I'm currently building **[Coffer](https://github.com/aneebbaig/coffer)** — a self-hosted personal finance manager (Next.js web + Flutter Android)
-- 🛠️ I work across **web (Next.js / React / TypeScript)**, **mobile (Flutter / Dart)** and **backends (Python / FastAPI)**
-- 🌱 Lately exploring **self-hosting, system design & clean architecture**
-- 💬 Ask me about **Flutter, TypeScript, Next.js, Python**
-- 📫 Reach me at **aneebbaig123@gmail.com**
-- ⚡ Fun fact: **coffee is my fuel**
+## Connect
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aneebbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://dev.to/aneebbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-  <a href="https://instagram.com/baigs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aneebbaig&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneebbaig&layout=compact&theme=tokyonight&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneebbaig&theme=tokyonight" alt="streak" />
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aneebbaig123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aneebbaig)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/aneebbaig)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/baigs2)
