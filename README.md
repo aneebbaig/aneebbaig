@@ -1,8 +1,8 @@
 # Aneeb Baig
 
-**Full-stack developer — Pakistan**
+**Flutter developer — Pakistan**
 
-I build web apps with Next.js, mobile apps with Flutter, and APIs with Python. Currently focused on self-hosted personal finance tooling.
+I build cross-platform apps with Flutter & Dart. I also ship full products end-to-end — backends in Python (Flask / FastAPI) and web apps with Next.js, leaning on AI tooling to move fast outside my core stack.
 
 📫 &nbsp;aneebbaig123@gmail.com
 
@@ -10,36 +10,36 @@ I build web apps with Next.js, mobile apps with Flutter, and APIs with Python. C
 
 ## About
 
-- 🔭 &nbsp;Building **[Coffer](https://github.com/aneebbaig/coffer)** — a self-hosted personal finance manager (Next.js web + Flutter Android)
-- 💻 &nbsp;Working across the stack: **Next.js / React / TypeScript** on the front, **Python / FastAPI** on the back, **Flutter / Dart** on mobile
-- 🌱 &nbsp;Currently into **self-hosting, system design, and clean architecture**
-- 💬 &nbsp;Happy to talk about **Flutter, TypeScript, Next.js, and Python**
+- 📱 &nbsp;**Flutter & Dart** is my home turf — cross-platform mobile is what I do best
+- 🔭 &nbsp;Building **[Coffer](https://github.com/aneebbaig/coffer)** — a self-hosted personal finance manager (Flutter Android + Next.js web)
+- 🐍 &nbsp;Comfortable wiring up backends in **Python** with **Flask / FastAPI**
+- ⚡ &nbsp;Ship full-stack web with **Next.js**, pairing with AI tools to cover the parts outside my main stack
+- 💬 &nbsp;Happy to talk about **Flutter, Dart, and Python**
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**Core — Mobile**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Languages I write**
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Frontend**
+**Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Web (with AI tooling)**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Data & Infra**
 
@@ -57,11 +57,11 @@ I build web apps with Next.js, mobile apps with Flutter, and APIs with Python. C
 
 | Project | Description | Stack | Link |
 | --- | --- | --- | --- |
-| **[Coffer](https://github.com/aneebbaig/coffer)** | Self-hosted personal finance manager — zero-based budgeting, savings pots, goals, investments, loans | Next.js · Flutter | — |
-| **[Anhib Management](https://github.com/aneebbaig/anhib-management)** | Personal finance SaaS panel | TypeScript · Next.js | [Live](https://panel.anhib.com) |
-| **[TrackPal](https://github.com/aneebbaig/trackpal-backend)** | Tracking app — Python API + Flutter client | Python · Flutter | [API](https://trackpal-backend.vercel.app) |
-| **[Daastan](https://github.com/aneebbaig/daastan)** | Storytelling web app | TypeScript · Next.js | [Live](https://daastan-beta.vercel.app) |
-| **[Portfolio](https://github.com/aneebbaig/my-portfolio)** | Personal portfolio site | TypeScript · Next.js | [Live](https://aneebbaig.vercel.app) |
+| **[Coffer](https://github.com/aneebbaig/coffer)** | Self-hosted personal finance manager — zero-based budgeting, savings pots, goals, investments, loans | Flutter · Next.js | — |
+| **[TrackPal](https://github.com/aneebbaig/trackpal-backend)** | Tracking app — Flutter client + Python API | Flutter · Python | [API](https://trackpal-backend.vercel.app) |
+| **[Anhib Management](https://github.com/aneebbaig/anhib-management)** | Personal finance SaaS panel | Next.js | [Live](https://panel.anhib.com) |
+| **[Daastan](https://github.com/aneebbaig/daastan)** | Storytelling web app | Next.js | [Live](https://daastan-beta.vercel.app) |
+| **[Portfolio](https://github.com/aneebbaig/my-portfolio)** | Personal portfolio site | Next.js | [Live](https://aneebbaig.vercel.app) |
 
 ---
 
@@ -69,7 +69,7 @@ I build web apps with Next.js, mobile apps with Flutter, and APIs with Python. C
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=aneebbaig&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneebbaig&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneebbaig&layout=compact&hide_border=true&langs_count=8&hide=html,css,scss&theme=graywhite" alt="top languages" />
 </p>
 
 ---
