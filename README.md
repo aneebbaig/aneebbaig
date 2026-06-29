@@ -65,15 +65,6 @@ I build cross-platform apps with Flutter & Dart. I also ship full products end-t
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aneebbaig&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneebbaig&layout=compact&hide_border=true&langs_count=8&hide=html,css,scss&theme=graywhite" alt="top languages" />
-</p>
-
----
-
 ## Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aneebbaig123@gmail.com)
