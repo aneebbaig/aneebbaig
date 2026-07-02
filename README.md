@@ -47,8 +47,10 @@ Email: aneebbaig123@gmail.com
 | ACCA to Job-Ready | Open-source, AI-powered roadmap, practice, and assessment app for ACCA affiliates in Pakistan | Next.js | [Code](https://github.com/aneebbaig/acca-to-job-ready) |
 | Daastan | Product site and configurator for handcrafted Nikkah frames | Next.js | [Live](https://daastan.anhib.com) |
 | Portfolio | My portfolio site | Next.js | [Live](https://aneebbaig.vercel.app) |
+| Cue | AI-powered Android automation app, built with Flutter and Gemini | Flutter | [Code](https://github.com/aneebbaig/cue) |
+| TrackPal | Flutter fitness tracker with a Python/FastAPI backend | Flutter, FastAPI | [Code](https://github.com/aneebbaig/trackpal-fitness) |
 
-A couple of Flutter apps (Cue, an AI automation app, and TrackPal, a fitness tracker) are launching on the Play Store soon. I'll link them here once they're live.
+Cue and TrackPal are launching on the Play Store soon. I'll add live links here once they're up.
 
 ## Connect
 
