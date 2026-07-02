@@ -4,7 +4,7 @@ Flutter developer from Pakistan.
 
 I mostly build mobile apps with Flutter and Dart. I also write backends in Python (Flask, FastAPI) and put together web apps with Next.js when a project needs one. For the web and backend parts I lean on AI tools a fair bit to move faster.
 
-Most of my apps are private commercial products, but some of my work is open source (Coffer and Sidekit below). Portfolio and live links too.
+Most of my apps are private commercial products, but some of my work is open source (Coffer, Sidekit, and ACCA to Job-Ready below). Portfolio and live links too.
 
 Portfolio: https://aneebbaig.vercel.app
 Email: aneebbaig123@gmail.com
@@ -44,9 +44,9 @@ Email: aneebbaig123@gmail.com
 | --- | --- | --- | --- |
 | Coffer | Self-hosted finance app: budgeting, savings pots, goals, investments, loans | Flutter, Next.js | [Code](https://github.com/aneebbaig/coffer) |
 | Sidekit | Open-source toolkit for solo founders: orders, inventory, cost sheets, customers, finance | Next.js | [Code](https://github.com/aneebbaig/sidekit) |
-| Anhib Management | Personal finance SaaS panel | Next.js | [Live](https://panel.anhib.com) |
-| Daastan | Product site and configurator for handcrafted Nikkah frames | Next.js | [Live](https://daastan-beta.vercel.app) |
-| Portfolio | My portfolio, built as a small VSCode IDE in the browser | Next.js | [Live](https://aneebbaig.vercel.app) |
+| ACCA to Job-Ready | Open-source, AI-powered roadmap, practice, and assessment app for ACCA affiliates in Pakistan | Next.js | [Code](https://github.com/aneebbaig/acca-to-job-ready) |
+| Daastan | Product site and configurator for handcrafted Nikkah frames | Next.js | [Live](https://daastan.anhib.com) |
+| Portfolio | My portfolio site | Next.js | [Live](https://aneebbaig.vercel.app) |
 
 A couple of Flutter apps (Cue, an AI automation app, and TrackPal, a fitness tracker) are launching on the Play Store soon. I'll link them here once they're live.
 
